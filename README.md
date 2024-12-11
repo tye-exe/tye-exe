@@ -1,3 +1,6 @@
+Hey, i'm tye! A non-binary developer!
+
+Here's my most used languages statistics (included more so for hilariousness than accuracy).
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tye-exe&theme=tokyonight)
 
 <!--
